@@ -2,13 +2,13 @@
 
 ## Application Setup
 
-The OWASP Juice Shop vulnerable web application was used.
+OWASP Juice Shop – an intentionally vulnerable web application designed for security testing and learning purposes.
 
 ### Installation Steps:
 
 1. Installed Node.js
 2. Ran the application using:
-   npx juice-shop
+   npm start juice-shop
 3. Accessed the application via:
    http://localhost:3000
 
